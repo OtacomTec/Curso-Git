@@ -2,3 +2,10 @@ GENIPABU EDITOU.......1
 OTACOM 10 EDITOU TAMBEM.......2
 GENIPABU EDITOU.......3
 
+--------------------------------------
+INICIO TESTE MULT-BRANCH
+--------------------------------------
+
+EDITADO NA BRANCH DESENVOLVIMENTO => OTACOM-10 .....1
+
+
